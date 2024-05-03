@@ -2,7 +2,9 @@ This is a React.js project.
 
 ## Getting Started
 
-First, run the development server:
+You'll need to run `npm install` to install the node modules.
+
+Then, run the development server:
 
 ```bash
 npm run dev
